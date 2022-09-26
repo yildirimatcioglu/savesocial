@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms and Conditions
+include_in_header: true
+---
+
 Terms and Conditions of SaveSocial
 
 Last updated: Sep 13th, 2022
